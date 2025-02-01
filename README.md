@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my assignments
-- 🌱 I’m currently learning Python, Java, C, CSS, C#, PHP, Javascipt, HTML, & CSS
-- 👯 I’m looking to collaborate on more projects
-- 🤔 I’m looking for help with databases
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate
+- 🤔 I’m looking for help
 - 💬 Ask me about nothing
 - 📫 How to reach me: catherinejoyrpailden@iskolarnfbayan.pup.edu.ph
 - 😄 Pronouns: she/ her
